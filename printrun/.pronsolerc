@@ -1,0 +1,26 @@
+set last_window_maximized True
+set last_window_width 1558
+set last_window_height 923
+set port /dev/ttyUSB0
+set baudrate 250000
+set last_sash_position 598
+set last_temperature 195.0
+set xy_feedrate 5000
+set z_feedrate 5000
+set e_feedrate 100
+set last_extrusion 3
+set last_file_path /home/peter/Desktop/3d-print/flash_hot_shoe_cover_Sony_NEX7
+set recentfiles ["/home/peter/Desktop/3d-print/flash_hot_shoe_cover_Sony_NEX7/version06.gcode", "/home/peter/Desktop/3d-print/flash_hot_shoe_cover_Sony_NEX7/version05.gcode", "/home/peter/Desktop/3d-print/flash_hot_shoe_cover_Sony_NEX7/version04.gcode", "/home/peter/Desktop/3d-print/flash_hot_shoe_cover_Sony_NEX7/version03.gcode", "/home/peter/Desktop/3d-print/for_kossel/Glass bed holder/glass_holder.gcode"]
+set total_filament_used 19889.1577
+set build_dimensions 180.00x180.00x100.00-90.00-90.00+0.00+0.00+0.00+0.00
+set extruders 1
+set mainviz 3D
+set uimode Standard
+set controlsmode Standard
+button 0 "G29 Auto-Level Homing" G29
+button 1 "Current position" M114
+button 2 "Endstop status" M119
+set tempgauges True
+set lockbox True
+set last_bed_temperature 65.0
+set circular_bed True
