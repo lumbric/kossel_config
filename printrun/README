@@ -1,0 +1,3 @@
+Config file for Kossel mini. Correct size and shape and center of bed and also
+some other config changes. Copy .pronsolerc to your home folder (or symlink
+it).
