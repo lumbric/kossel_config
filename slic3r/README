@@ -1,0 +1,3 @@
+`exported_config.ini` contains exported config. Needs to be imported in slic3r
+via load config in menu or via --load on command line.
+
