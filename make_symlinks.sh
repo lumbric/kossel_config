@@ -11,6 +11,7 @@ ln_to_home() {
     target=$2
 
     echo "Creating symlink $PWD/$source -> $HOME/$target..."
+    mkdir -p $(dirname $HOME/$target)
     ln -i -s $PWD/$source $HOME/$target
 }
 
@@ -29,3 +30,7 @@ for config in ${CONFIG_TEMPLATES[@]}; do
         ln_to_home slic3r/$folder/${config}.ini .Slic3r/$folder/${config}.ini
     done
 done
+
+
+# Cura
+ln_to_home cura_15.02.1 .cura/15.02.1
