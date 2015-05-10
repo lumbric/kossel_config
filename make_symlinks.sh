@@ -12,7 +12,7 @@ ln_to_home() {
 
     echo "Creating symlink $PWD/$source -> $HOME/$target..."
     mkdir -p $(dirname $HOME/$target)
-    ln -i -s $PWD/$source $HOME/$target
+    ln -n -i -s $PWD/$source $HOME/$target
 }
 
 
