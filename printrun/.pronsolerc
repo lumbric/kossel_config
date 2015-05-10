@@ -17,7 +17,7 @@ set extruders 1
 set mainviz 3D
 set uimode Standard
 set controlsmode Standard
-button 0 "G29 Auto-Level Homing" G29
+button 0 "G29 Z0.1 Auto-Level Homing" G29 Z0.1
 button 1 "Current position" M114
 button 2 "Endstop status" M119
 set tempgauges True
