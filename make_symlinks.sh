@@ -34,3 +34,4 @@ done
 
 # Cura
 ln_to_home cura_15.02.1 .cura/15.02.1
+ln_to_home cura_15.04.3 .cura/15.04.3
