@@ -1,0 +1,126 @@
+2017-01-14 22:02:41,357 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin FileLogger
+2017-01-14 22:02:41,366 - WARNING - STLReader.STLReader.<module> [26]: Could not find numpy-stl, falling back to slower code.
+2017-01-14 22:02:41,370 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin STLReader
+2017-01-14 22:02:41,375 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin STLWriter
+2017-01-14 22:02:41,379 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin OBJReader
+2017-01-14 22:02:41,384 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin OBJWriter
+2017-01-14 22:02:41,385 - WARNING - UM.PluginRegistry.loadPlugin [72]: Plugin ConsoleLogger was already loaded
+2017-01-14 22:02:41,391 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin WireframeView
+2017-01-14 22:02:41,396 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin SimpleView
+2017-01-14 22:02:41,419 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin 3MFWriter
+2017-01-14 22:02:41,420 - WARNING - UM.PluginRegistry.loadPlugin [72]: Plugin CuraEngineBackend was already loaded
+2017-01-14 22:02:41,430 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin CuraProfileWriter
+2017-01-14 22:02:41,466 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin X3DReader
+2017-01-14 22:02:41,495 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin VersionUpgrade21to22
+2017-01-14 22:02:41,502 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin VersionUpgrade22to24
+2017-01-14 22:02:41,549 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin GCodeProfileReader
+2017-01-14 22:02:41,561 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin LayerView
+2017-01-14 22:02:41,612 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin RemovableDriveOutputDevice
+2017-01-14 22:02:41,627 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin GCodeWriter
+2017-01-14 22:02:41,648 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin AutoSave
+2017-01-14 22:02:41,684 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin UltimakerMachineActions
+2017-01-14 22:02:41,704 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin ChangeLogPlugin
+2017-01-14 22:02:41,722 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin ImageReader
+2017-01-14 22:02:42,129 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin UM3NetworkPrinting
+2017-01-14 22:02:42,214 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin USBPrinting
+2017-01-14 22:02:42,281 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin XmlMaterialProfile
+2017-01-14 22:02:42,288 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin CuraProfileReader
+2017-01-14 22:02:42,296 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin SolidView
+2017-01-14 22:02:42,322 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin 3MFReader
+2017-01-14 22:02:42,330 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin XRayView
+2017-01-14 22:02:42,337 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin MachineSettingsAction
+2017-01-14 22:02:42,509 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin SliceInfoPlugin
+2017-01-14 22:02:42,527 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin LegacyProfileReader
+2017-01-14 22:02:42,573 - INFO - UM.PluginRegistry.loadPlugin [100]: Loaded plugin PerObjectSettingsTool
+2017-01-14 22:02:42,577 - INFO - UM.Qt.QtApplication.__init__ [90]: Command line arguments: {'external-backend': False, 'disable-textures': False, 'file': []}
+2017-01-14 22:02:42,598 - INFO - UM.VersionUpgradeManager.upgrade [100]: Looking for old configuration files to upgrade.
+2017-01-14 22:02:42,656 - DEBUG - UM.Backend.Backend._logSocketState [167]: Socket state changed to Listening
+2017-01-14 22:02:42,673 - INFO - UM.Backend.Backend.startEngine [71]: Started engine process: /usr/bin/CuraEngine
+2017-01-14 22:02:42,674 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] Calling engine with: ['/usr/bin/CuraEngine', 'connect', '127.0.0.1:49674', '-j', '/usr/share/cura/resources/definitions/fdmprinter.def.json', '']
+2017-01-14 22:02:42,707 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] 
+2017-01-14 22:02:42,710 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] Cura_SteamEngine version DEV
+2017-01-14 22:02:42,711 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] Copyright (C) 2014 David Braam
+2017-01-14 22:02:42,712 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] 
+2017-01-14 22:02:42,713 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] This program is free software: you can redistribute it and/or modify
+2017-01-14 22:02:42,714 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] it under the terms of the GNU Affero General Public License as published by
+2017-01-14 22:02:42,722 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] the Free Software Foundation, either version 3 of the License, or
+2017-01-14 22:02:42,723 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] (at your option) any later version.
+2017-01-14 22:02:42,725 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] 
+2017-01-14 22:02:42,726 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] This program is distributed in the hope that it will be useful,
+2017-01-14 22:02:42,731 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] but WITHOUT ANY WARRANTY; without even the implied warranty of
+2017-01-14 22:02:42,733 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+2017-01-14 22:02:42,734 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] GNU Affero General Public License for more details.
+2017-01-14 22:02:42,736 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] 
+2017-01-14 22:02:42,742 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] You should have received a copy of the GNU Affero General Public License
+2017-01-14 22:02:42,744 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] along with this program.  If not, see <http://www.gnu.org/licenses/>.
+2017-01-14 22:02:43,555 - DEBUG - MachineSettingsAction.MachineSettingsAction._onContainerAdded [69]: Not attaching MachineSettingsAction to ord; Multi-extrusion printers are not supported
+2017-01-14 22:02:45,676 - DEBUG - MachineSettingsAction.MachineSettingsAction._onContainerAdded [69]: Not attaching MachineSettingsAction to ultimaker3_extended; Multi-extrusion printers are not supported
+2017-01-14 22:02:47,227 - DEBUG - MachineSettingsAction.MachineSettingsAction._onContainerAdded [69]: Not attaching MachineSettingsAction to punchtec_connect_xl; Multi-extrusion printers are not supported
+2017-01-14 22:02:47,998 - DEBUG - MachineSettingsAction.MachineSettingsAction._onContainerAdded [69]: Not attaching MachineSettingsAction to ultimaker_original_dual; Multi-extrusion printers are not supported
+2017-01-14 22:02:48,157 - DEBUG - MachineSettingsAction.MachineSettingsAction._onContainerAdded [69]: Not attaching MachineSettingsAction to ultimaker3; Multi-extrusion printers are not supported
+2017-01-14 22:03:14,698 - DEBUG - UM.Backend.Backend._logSocketState [171]: Socket state changed to Connected
+2017-01-14 22:03:14,699 - DEBUG - UM.Backend.Backend._onSocketStateChanged [161]: Backend connected on port 49674
+2017-01-14 22:03:14,720 - DEBUG - UM.Controller.setActiveView [81]: Setting active view to SolidView
+2017-01-14 22:03:17,344 - DEBUG - UM.Qt.Bindings.Theme.load [126]: Loading theme file: /usr/share/cura/resources/themes/cura/theme.json
+2017-01-14 22:03:17,859 - DEBUG - UM.Qt.Bindings.Theme.load [186]: Loaded theme /usr/share/cura/resources/themes/cura
+2017-01-14 22:03:18,235 - WARNING - cura.Settings.ContainerManager.getContainerMetaDataEntry [175]: Could not get metadata of container  because it was not found.
+2017-01-14 22:03:19,099 - WARNING - UM.Preferences.getValue [81]: Tried to get the value of non-existing setting info/automatic_update_check.
+2017-01-14 22:03:19,249 - DEBUG - UM3NetworkPrinting.DiscoverUM3Action._createAdditionalComponentsView [134]: Creating additional ui components for UM3.
+2017-01-14 22:03:19,766 - ERROR - UM.Qt.GL.QtOpenGL.__init__ [58]: DecodeError while getting GL_RENDERER via glGetString!
+2017-01-14 22:03:19,767 - DEBUG - UM.Qt.GL.QtOpenGL.__init__ [64]: Initialized OpenGL subsystems.
+2017-01-14 22:03:19,767 - DEBUG - UM.Qt.GL.QtOpenGL.__init__ [65]: OpenGL Version:  2.1 Mesa 11.2.0
+2017-01-14 22:03:19,769 - DEBUG - UM.Qt.GL.QtOpenGL.__init__ [66]: OpenGL Vendor:   Intel Open Source Technology Center
+2017-01-14 22:03:19,770 - DEBUG - UM.Qt.GL.QtOpenGL.__init__ [67]: OpenGL Renderer: Unknown
+2017-01-14 22:03:26,121 - WARNING - cura.Settings.ContainerManager.getContainerMetaDataEntry [175]: Could not get metadata of container  because it was not found.
+2017-01-14 22:03:26,332 - DEBUG - UM.Mesh.MeshData.calculateNormalsFromIndexedVertices [404]: Calculating normals took 0.0075817108154296875 seconds
+2017-01-14 22:03:26,413 - DEBUG - UM.Mesh.MeshData.calculateNormalsFromIndexedVertices [404]: Calculating normals took 0.007620096206665039 seconds
+2017-01-14 22:03:26,654 - WARNING - UM.Mesh.MeshBuilder.reserveFaceCount [160]: Had to convert 'num_faces' with int(): 8376.0 -> 8376 
+2017-01-14 22:03:26,720 - DEBUG - UM.Mesh.MeshData.calculateNormalsFromIndexedVertices [404]: Calculating normals took 0.00923466682434082 seconds
+2017-01-14 22:03:27,327 - DEBUG - UM.Mesh.MeshData.calculateNormalsFromIndexedVertices [404]: Calculating normals took 0.00890493392944336 seconds
+2017-01-14 22:03:27,487 - DEBUG - UM.Mesh.MeshData.calculateNormalsFromIndexedVertices [404]: Calculating normals took 0.008077859878540039 seconds
+2017-01-14 22:03:28,327 - DEBUG - UM.Mesh.MeshData.calculateNormalsFromIndexedVertices [404]: Calculating normals took 0.03786158561706543 seconds
+2017-01-14 22:03:28,460 - DEBUG - UM.Mesh.MeshData.calculateNormalsFromIndexedVertices [404]: Calculating normals took 0.009305953979492188 seconds
+2017-01-14 22:03:28,876 - DEBUG - CuraEngineBackend.CuraEngineBackend.slice [152]: Starting slice job...
+2017-01-14 22:03:29,022 - DEBUG - UM.Mesh.MeshData.calculateNormalsFromVertices [379]: Calculating normals took 0.011758804321289062 seconds
+2017-01-14 22:03:29,027 - DEBUG - STLReader.STLReader.read [63]: Loaded a mesh with 25128 vertices
+2017-01-14 22:03:29,086 - DEBUG - UM.Mesh.MeshData.approximateConvexHull [347]: approximateConvexHull(target_count=1024) Calculating 3D convex hull took 0.04863309860229492 seconds. 291 input vertices. 291 output vertices.
+2017-01-14 22:03:38,382 - DEBUG - AutoSave.AutoSave._onTimeout [48]: Autosaving preferences, instances and profiles
+2017-01-14 22:03:39,607 - WARNING - UM.Preferences.getValue [81]: Tried to get the value of non-existing setting info/automatic_update_check.
+2017-01-14 22:03:50,060 - WARNING - UM.Preferences.getValue [81]: Tried to get the value of non-existing setting general/currency.
+2017-01-14 22:03:53,560 - DEBUG - CuraEngineBackend.CuraEngineBackend.slice [152]: Starting slice job...
+2017-01-14 22:03:53,561 - DEBUG - CuraEngineBackend.CuraEngineBackend._terminate [197]: Attempting to kill the engine process
+2017-01-14 22:03:53,562 - DEBUG - CuraEngineBackend.CuraEngineBackend._terminate [203]: Killing engine process
+2017-01-14 22:03:53,564 - DEBUG - CuraEngineBackend.CuraEngineBackend._terminate [206]: Engine process is killed. Received return code -15
+2017-01-14 22:03:54,098 - INFO - UM.Backend.Backend._onSocketError [195]: Backend crashed or closed.
+2017-01-14 22:03:54,200 - DEBUG - UM.Backend.Backend._createSocket [208]: Previous socket existed. Closing that first.
+2017-01-14 22:03:54,203 - DEBUG - CuraEngineBackend.CuraEngineBackend._terminate [197]: Attempting to kill the engine process
+2017-01-14 22:03:54,204 - DEBUG - UM.Backend.Backend._createSocket [208]: Previous socket existed. Closing that first.
+2017-01-14 22:03:54,209 - DEBUG - UM.Backend.Backend._logSocketState [167]: Socket state changed to Listening
+2017-01-14 22:03:54,246 - INFO - UM.Backend.Backend.startEngine [71]: Started engine process: /usr/bin/CuraEngine
+2017-01-14 22:03:54,248 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] Calling engine with: ['/usr/bin/CuraEngine', 'connect', '127.0.0.1:49674', '-j', '/usr/share/cura/resources/definitions/fdmprinter.def.json', '']
+2017-01-14 22:03:54,250 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] 
+2017-01-14 22:03:54,251 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] Cura_SteamEngine version DEV
+2017-01-14 22:03:54,252 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] Copyright (C) 2014 David Braam
+2017-01-14 22:03:54,253 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] 
+2017-01-14 22:03:54,254 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] This program is free software: you can redistribute it and/or modify
+2017-01-14 22:03:54,255 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] it under the terms of the GNU Affero General Public License as published by
+2017-01-14 22:03:54,257 - DEBUG - UM.Backend.Backend._logSocketState [171]: Socket state changed to Connected
+2017-01-14 22:03:54,257 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] the Free Software Foundation, either version 3 of the License, or
+2017-01-14 22:03:54,260 - DEBUG - UM.Backend.Backend._onSocketStateChanged [161]: Backend connected on port 49674
+2017-01-14 22:03:54,261 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] (at your option) any later version.
+2017-01-14 22:03:54,261 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] 
+2017-01-14 22:03:54,262 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] This program is distributed in the hope that it will be useful,
+2017-01-14 22:03:54,263 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] but WITHOUT ANY WARRANTY; without even the implied warranty of
+2017-01-14 22:03:54,263 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+2017-01-14 22:03:54,264 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] GNU Affero General Public License for more details.
+2017-01-14 22:03:54,265 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] 
+2017-01-14 22:03:54,265 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] You should have received a copy of the GNU Affero General Public License
+2017-01-14 22:03:54,266 - DEBUG - UM.Backend.Backend._backendLog [89]: [Backend] along with this program.  If not, see <http://www.gnu.org/licenses/>.
+2017-01-14 22:03:54,787 - DEBUG - CuraEngineBackend.CuraEngineBackend.slice [152]: Starting slice job...
+2017-01-14 22:04:03,353 - DEBUG - AutoSave.AutoSave._onTimeout [48]: Autosaving preferences, instances and profiles
+2017-01-14 22:04:15,758 - WARNING - UM.Preferences.getValue [81]: Tried to get the value of non-existing setting info/automatic_update_check.
+2017-01-14 22:04:25,353 - DEBUG - AutoSave.AutoSave._onTimeout [48]: Autosaving preferences, instances and profiles
+2017-01-14 22:04:26,592 - DEBUG - UM.Qt.QtApplication.windowClosed [198]: Shutting down cura
+2017-01-14 22:04:27,642 - DEBUG - CuraEngineBackend.CuraEngineBackend._terminate [197]: Attempting to kill the engine process
+2017-01-14 22:04:27,643 - DEBUG - CuraEngineBackend.CuraEngineBackend._terminate [203]: Killing engine process
+2017-01-14 22:04:27,646 - DEBUG - CuraEngineBackend.CuraEngineBackend._terminate [206]: Engine process is killed. Received return code -15
