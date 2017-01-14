@@ -36,5 +36,6 @@ done
 ln_to_home cura/15.02.1 .cura/15.02.1
 ln_to_home cura/15.04.3 .cura/15.04.3
 ln_to_home cura/15.04.4 .cura/15.04.4
+ln_to_home cura/cura .config/   # >= cura 2.4
 #ln_to_home cura/15.06.03 .cura/15.06.03
 
